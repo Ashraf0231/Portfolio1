@@ -14,4 +14,24 @@ h1{
 .button1{
 
     color: orangered;
+
+}
+.Column1{
+    
+ 
+    Float:left;
+    width: 60%;
+    height: 200px;
+}
+.Column2{
+    
+    Float:Right;
+    width: 35%;
+    height: 200px;
+}
+
+.Image{
+
+    max-width: 100%;
+
 }
