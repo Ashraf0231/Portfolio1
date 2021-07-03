@@ -12,6 +12,7 @@ body{
 h1{
     font-size: 50px;
 }
+
 .button_Link{
 
     text-decoration: none;
@@ -19,24 +20,19 @@ h1{
     background-image: linear-gradient(orange, tomato );
     border-radius: 10px;
     color: black;
-    
-
 }
+
+
 .Column{
     
     width: 50%;
     padding-left: 5%;
-}
-.Column2{
-    
-    Float:Right;
-    width: 35%;
-    height: 200px;
+    padding-right: 6%;
 }
 
 .Image{
 
-    max-width: 80%;
+    max-width: 70%;
 
 }
 
@@ -44,10 +40,19 @@ h1{
     
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 100px;
 
 }
 
 section{
     display: flex;
+    margin-bottom: 100px;
+}
+.dream_big{
     
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+    background-position: right ;
+
 }
