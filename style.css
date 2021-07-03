@@ -5,9 +5,13 @@ body{
 
 #span{
 
-    color: chocolate;
+    color:orange;
 }
 
 h1{
     font-size: 50px;
+}
+.button1{
+
+    color: orangered;
 }
