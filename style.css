@@ -11,17 +11,20 @@ body{
 h1{
     font-size: 50px;
 }
-.button1{
+.button_Link{
 
-    color: orangered;
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: rgb(201, 128, 55);
+    border-radius: 10px;
+    color: black;
+    
 
 }
-.Column1{
+.Column{
     
- 
-    Float:left;
-    width: 60%;
-    height: 200px;
+    width: 50%;
+    padding-left: 5%;
 }
 .Column2{
     
@@ -32,6 +35,10 @@ h1{
 
 .Image{
 
-    max-width: 100%;
+    max-width: 80%;
 
+}
+
+section{
+    display: flex;
 }
