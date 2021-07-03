@@ -43,8 +43,12 @@ h1{
     margin-bottom: 100px;
 
 }
-
 section{
+
+    margin-bottom: 100px;
+}
+
+.flexible_container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -55,4 +59,12 @@ section{
     margin-bottom: 100px;
     background-position: right ;
 
+}
+
+.Experience{
+
+    padding-left: 5%;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left ;
 }
