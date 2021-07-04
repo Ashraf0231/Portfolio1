@@ -69,12 +69,29 @@ section{
     background-position: left ;
 }
 
-.Column_Shadow{
-    
-    width: 40%;
-    padding-left: 5%;
-    padding-right: 6%;
+.Experience_Area{
+
+    width: 50%;
+    padding-left: 2%;
+    padding-right: 2%;
     margin-left: 5%;
     margin-right:5%;
+    border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
+
+}
+
+#Column_Shadow_Left{
+    
+    border-left: 10px solid;
+    border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
+    border-image-slice: 1;
+}
+
+#Column_Shadow_Right{
+    
+    border-left: 10px solid;
+    border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
+    border-image-slice: 1;
+
 }
