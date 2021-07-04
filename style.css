@@ -68,3 +68,13 @@ section{
     background-repeat: no-repeat;
     background-position: left ;
 }
+
+.Column_Shadow{
+    
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 6%;
+    margin-left: 5%;
+    margin-right:5%;
+    box-shadow: 10px 10px 40px gray;
+}
